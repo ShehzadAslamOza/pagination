@@ -1,9 +1,9 @@
 // State
 const state = {
   url: "https://jsonplaceholder.typicode.com/comments/",
-  resultsOnEachPage: 10,
+  resultsOnEachPage: 5,
   startIndex: 1,
-  endIndex: 10,
+  endIndex: 5,
   dataMap: new Map(),
 };
 
