@@ -1,3 +1,12 @@
-h1 {
-  color: green;
+.container {
+  margin-top: 200px;
+}
+
+#btn-prev {
+  margin-right: 2%;
+}
+
+h4 {
+  display: none;
+  margin-left: 2%;
 }
